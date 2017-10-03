@@ -12,7 +12,9 @@ namespace Casino
         protected const string MSGBOX_ERR_TITLE = "Ett fel uppstod!";
         protected string name;
 
-        private const string EXC_NAME_MSG = "Ange ditt namn!";
+        private const string
+            EXC_NAME_MSG = "Ange ditt namn!",
+            DEF_NAME = "Testperson";
 
         public string Name
         {
@@ -38,5 +40,8 @@ namespace Casino
                 }
             }
         }
+
+        public Person() { name = DEF_NAME; }
+        public Person(string name) { this.name = name; }
     }
 }
