@@ -9,11 +9,10 @@ namespace Casino
 {
     class Person
     {
-        private const string
-            MSGBOX_ERR_TITLE = "Ett fel uppstod!",
-            EXC_NAME_MSG = "Ange ditt namn!";
+        private const string EXC_NAME_MSG = "Ange ditt namn!";
+        protected const string MSGBOX_ERR_TITLE = "Ett fel uppstod!";
 
-        private string name;
+        protected string name;
 
         public string Name
         {
