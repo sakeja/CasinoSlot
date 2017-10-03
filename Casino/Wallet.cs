@@ -9,26 +9,41 @@ namespace Casino
 {
     class Wallet : Person
     {
-        private const string EXC_NAME_MSG = "Ange ditt namn!";
-        protected decimal wallet;
+        private string EXC_BAL_MSG =
+            "Ange pengar i din plånbok!\n" +
+            (uint.MinValue + 1).ToString() +
+            " till " +
+            uint.MaxValue.ToString() +
+            " tillåtet.";
 
-        public decimal Wallet
+        protected uint balance;
+
+        public uint Balance
         {
-            get { return wallet; }
+            get { return balance; }
 
             set
             {
                 try
                 {
-                    if (value <= 0)
-                        throw new ArgumentNullException("name", EXC_NAME_MSG);
+                    if (value < uint.MinValue || value > uint.MaxValue)
+                        throw new ArgumentOutOfRangeException(
+                            "balance",
+                            EXC_BAL_MSG);
 
-                    name = value;
+                    if (value == 0)
+                        MessageBox.Show(
+                            EXC_BAL_MSG,
+                            MSGBOX_ERR_TITLE);
+
+                    else balance = value;
                 }
 
-                catch (ArgumentNullException e)
+                catch (ArgumentOutOfRangeException e)
                 {
-                    MessageBox.Show(e.ToString(), MSGBOX_ERR_TITLE);
+                    MessageBox.Show(
+                        e.ToString(),
+                        MSGBOX_ERR_TITLE);
                 }
             }
         }
