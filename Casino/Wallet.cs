@@ -9,6 +9,7 @@ namespace Casino
 {
     class Wallet : Person
     {
+        private const string EXC_NAME_MSG = "Ange ditt namn!";
         protected decimal wallet;
 
         public decimal Wallet
