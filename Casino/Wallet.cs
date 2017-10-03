@@ -9,14 +9,14 @@ namespace Casino
 {
     class Wallet : Person
     {
+        protected uint balance;
+
         private string EXC_BAL_MSG =
             "Ange pengar i din plånbok!\n" +
             (uint.MinValue + 1).ToString() +
             " till " +
             uint.MaxValue.ToString() +
             " tillåtet.";
-
-        protected uint balance;
 
         public uint Balance
         {
