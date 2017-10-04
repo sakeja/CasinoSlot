@@ -19,5 +19,11 @@ namespace Casino
             if (a < b) return false;
             else return true;
         }
+
+        public static bool ValidateInput(string a)
+        {
+            if (string.IsNullOrWhiteSpace(a)) return false;
+            else return true;
+        }
     }
 }
