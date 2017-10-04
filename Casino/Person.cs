@@ -9,36 +9,13 @@ namespace Casino
 {
     class Person
     {
-        protected const string MSGBOX_ERR_TITLE = "Ett fel uppstod!";
+        private const string DEF_NAME = "Testperson";
         protected string name;
-
-        private const string
-            EXC_NAME_MSG = "Ange ditt namn!",
-            DEF_NAME = "Testperson";
 
         public string Name
         {
-            get { return name; }
-
-            set
-            {
-                try
-                {
-                    if (string.IsNullOrWhiteSpace(value))
-                        throw new ArgumentNullException(
-                            "name",
-                            EXC_NAME_MSG);
-
-                    name = value;
-                }
-
-                catch (ArgumentNullException e)
-                {
-                    MessageBox.Show(
-                        e.ToString(),
-                        MSGBOX_ERR_TITLE);
-                }
-            }
+            get => name;
+            set => name = value;
         }
 
         public Person() { name = DEF_NAME; }

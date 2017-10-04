@@ -11,6 +11,7 @@ namespace Casino
     {
         protected uint balance;
 
+        private const uint DEF_BAL = 1000;
         private string EXC_BAL_MSG =
             "Ange pengar i din plånbok!\n" +
             (uint.MinValue + 1).ToString() +
@@ -28,13 +29,13 @@ namespace Casino
                 {
                     if (value < uint.MinValue || value > uint.MaxValue)
                         throw new ArgumentOutOfRangeException(
-                            "balance",
-                            EXC_BAL_MSG);
+                            paramName: "balance",
+                            message: EXC_BAL_MSG);
 
                     if (value == 0)
                         MessageBox.Show(
-                            EXC_BAL_MSG,
-                            MSGBOX_ERR_TITLE);
+                            messageBoxText: EXC_BAL_MSG,
+                            caption: MSGBOX_ERR_TITLE);
 
                     else balance = value;
                 }
@@ -42,10 +43,13 @@ namespace Casino
                 catch (ArgumentOutOfRangeException e)
                 {
                     MessageBox.Show(
-                        e.ToString(),
-                        MSGBOX_ERR_TITLE);
+                        messageBoxText: e.ToString(),
+                        caption: MSGBOX_ERR_TITLE);
                 }
             }
         }
+
+        public Wallet() { balance = DEF_BAL; }
+        public Wallet(uint balance) { this.balance = balance; }
     }
 }
