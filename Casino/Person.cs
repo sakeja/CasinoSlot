@@ -9,9 +9,7 @@ namespace Casino
 {
     class Person
     {
-        private const string DEF_NAME = "Testperson";
-
-        public string Name { get; protected set; } = DEF_NAME;
+        public string Name { get; protected set; }
 
         public Person(string name) { Name = name; }
     }
