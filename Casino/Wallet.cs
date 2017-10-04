@@ -2,6 +2,6 @@
 {
     class Wallet : Person
     {
-        public uint Balance { get; protected set; }
+        public uint WalletSize { get; protected set; }
     }
 }

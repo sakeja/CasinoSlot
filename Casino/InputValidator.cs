@@ -4,20 +4,18 @@
     {
         public static bool ValidateInput(uint a)
         {
-            if (a < uint.MinValue || a > uint.MaxValue) return false;
-            else return true;
+            return (a < uint.MinValue || a > uint.MaxValue) ? false : true;
         }
 
         public static bool ValidateInput(uint a, uint b)
         {
-            if (a < b) return false;
-            else return true;
+            if (!ValidateInput(a) || !ValidateInput(b)) return false;
+            else return (a < b) ? false : true;
         }
 
         public static bool ValidateInput(string a)
         {
-            if (string.IsNullOrWhiteSpace(a)) return false;
-            else return true;
+            return (string.IsNullOrWhiteSpace(a)) ? false : true;
         }
     }
 }
