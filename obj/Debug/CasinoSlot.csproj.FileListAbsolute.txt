@@ -1,0 +1,45 @@
+C:\Users\Sam\Source\Repos\CasinoSlot\CasinoSlot\CasinoSlot\bin\Debug\CasinoSlot.exe.config
+C:\Users\Sam\Source\Repos\CasinoSlot\CasinoSlot\CasinoSlot\bin\Debug\CasinoSlot.exe
+C:\Users\Sam\Source\Repos\CasinoSlot\CasinoSlot\CasinoSlot\bin\Debug\CasinoSlot.pdb
+C:\Users\Sam\Source\Repos\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Source\Repos\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\MainWindow.g.cs
+C:\Users\Sam\Source\Repos\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\App.g.cs
+C:\Users\Sam\Source\Repos\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\Casino_MarkupCompile.cache
+C:\Users\Sam\Source\Repos\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\Casino_MarkupCompile.lref
+C:\Users\Sam\Source\Repos\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\MainWindow.baml
+C:\Users\Sam\Source\Repos\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.g.resources
+C:\Users\Sam\Source\Repos\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.Properties.Resources.resources
+C:\Users\Sam\Source\Repos\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.csproj.GenerateResource.Cache
+C:\Users\Sam\Source\Repos\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Source\Repos\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.exe
+C:\Users\Sam\Source\Repos\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.pdb
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\CasinoSlot\bin\Debug\CasinoSlot.exe.config
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\CasinoSlot\bin\Debug\CasinoSlot.exe
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\CasinoSlot\bin\Debug\CasinoSlot.pdb
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\MainWindow.g.cs
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\App.g.cs
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\Casino_MarkupCompile.cache
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\Casino_MarkupCompile.lref
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\MainWindow.baml
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.g.resources
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.Properties.Resources.resources
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.csproj.GenerateResource.Cache
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.exe
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.pdb
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\bin\Debug\CasinoSlot.exe.config
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\bin\Debug\CasinoSlot.exe
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\bin\Debug\CasinoSlot.pdb
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\obj\Debug\MainWindow.g.cs
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\obj\Debug\App.g.cs
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot_MarkupCompile.cache
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot_MarkupCompile.lref
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\obj\Debug\MainWindow.baml
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.g.resources
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.Properties.Resources.resources
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.csproj.GenerateResource.Cache
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.exe
+C:\Users\Sam\Google Drive\Studier\Grundläggande Programmering\Laboration 3\CasinoSlot\CasinoSlot\obj\Debug\CasinoSlot.pdb
